@@ -1,1 +1,1 @@
-dokken/rockylinux-9
+arm64v8/rockylinux

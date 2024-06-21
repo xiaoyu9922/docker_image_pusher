@@ -1,1 +1,1 @@
-arm64v8/rockylinux
+docker pull rockylinux:9.3.20231119-minimal
